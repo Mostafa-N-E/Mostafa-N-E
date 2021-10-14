@@ -10,4 +10,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-n-e&show_icons=true&locale=en" alt="mostafa-n-e" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-n-e&" alt="mostafa-n-e" /></p>
