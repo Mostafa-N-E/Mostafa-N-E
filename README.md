@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Nazari</h1>
-<h3 align="center">Python backend developer from Iran</h3>
-
+<h2 align="center">Python backend developer from Iran</h2>
+<h3 align="center">Student of Computer Engineering, Shahid Rajaei University, Tehran</h3>
 <h4 align="center">https://mostafanazari.pythonanywhere.com/</h4>
 
 <h3 align="left">Languages and Tools:</h3>
