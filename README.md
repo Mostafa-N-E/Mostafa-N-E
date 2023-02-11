@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Nazari</h1>
-<h2 align="center">Python Backend Developer \n and \n Flutter Front End Developer \n from Iran</h2>
+<h2 align="center">Python Backend Developer   and   Flutter Front End Developer   from Iran</h2>
 <h3 align="center">Student of Computer Engineering, Shahid Rajaei University, Tehran</h3>
 <h4 align="center">my first web app : https://mostafanazari.pythonanywhere.com/</h4>
 
